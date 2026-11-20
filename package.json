@@ -1,7 +1,7 @@
 {
   "name": "cdw-loja",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "type": "module",
   "description": "Front da loja da CDW (cdwloja.com): VIPs, cargos e divulgações com Pix.",
   "scripts": {
